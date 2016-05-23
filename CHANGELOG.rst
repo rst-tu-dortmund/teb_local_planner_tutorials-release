@@ -2,6 +2,12 @@
 Changelog for package teb_local_planner_tutorials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.0 (2016-05-23)
+------------------
+* Added example setup for an omnidirectionl robot (ROS kinetic+)
+* Run-dependency removed: metapackage navigation
+
+
 0.0.2 (2016-04-18)
 ------------------
 * This is a minor release due to the final releases for Saucy, Utopic and Vivid.
