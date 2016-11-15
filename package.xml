@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>teb_local_planner_tutorials</name>
-  <version>0.2.0</version>
+  <version>0.2.1</version>
   <description>The teb_local_planner_tutorials package</description>
 
   <maintainer email="christoph.roesmann@tu-dortmund.de">Christoph Rösmann</maintainer>
@@ -16,6 +16,9 @@
 
   <run_depend>stage_ros</run_depend>
   <run_depend>teb_local_planner</run_depend>
+  <run_depend>move_base</run_depend>
+  <run_depend>map_server</run_depend>
+  <run_depend>amcl</run_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
