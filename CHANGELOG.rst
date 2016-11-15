@@ -2,6 +2,11 @@
 Changelog for package teb_local_planner_tutorials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2016-11-15)
+------------------
+* Default parameters updated
+* Navigation run-dependencies added
+
 0.2.0 (2016-05-23)
 ------------------
 * Added example setup for an omnidirectionl robot (ROS kinetic+)
