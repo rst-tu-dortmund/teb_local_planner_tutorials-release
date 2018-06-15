@@ -1,0 +1,37 @@
+ros-kinetic-teb-local-planner-tutorials (0.2.2-0xenial) xenial; urgency=high
+
+  * Example scripts, configurations and launch files for planning with dynamic obstacles added
+  * Scripts updated to consider the costmap_converter::ObstacleArrayMsg message
+  * Contributors: Christoph Rösmann, Franz Albers
+
+ -- Christoph Rösmann <christoph.roesmann@tu-dortmund.de>  Thu, 14 Jun 2018 22:00:00 -0000
+
+ros-kinetic-teb-local-planner-tutorials (0.2.1-0xenial) xenial; urgency=high
+
+  * Default parameters updated
+  * Navigation run-dependencies added
+
+ -- Christoph Rösmann <christoph.roesmann@tu-dortmund.de>  Mon, 14 Nov 2016 23:00:00 -0000
+
+ros-kinetic-teb-local-planner-tutorials (0.2.0-0xenial) xenial; urgency=high
+
+  * Added example setup for an omnidirectionl robot (ROS kinetic+)
+  * Run-dependency removed: metapackage navigation
+
+ -- Christoph Rösmann <christoph.roesmann@tu-dortmund.de>  Sun, 22 May 2016 22:00:00 -0000
+
+ros-kinetic-teb-local-planner-tutorials (0.0.2-0xenial) xenial; urgency=high
+
+  * This is a minor release due to the final releases for Saucy, Utopic and Vivid.
+  * Deprecated parameters are removed from the config in order to avoid warnings each time the planner is initialized.
+  * A costmap conversion example is now included.
+
+ -- Christoph Rösmann <christoph.roesmann@tu-dortmund.de>  Sun, 17 Apr 2016 22:00:00 -0000
+
+ros-kinetic-teb-local-planner-tutorials (0.0.1-0xenial) xenial; urgency=high
+
+  * Initial release with two stage simulation examples (diffdrive and carlike robots) and all tutorial scripts.
+
+ -- Christoph Rösmann <christoph.roesmann@tu-dortmund.de>  Wed, 13 Apr 2016 22:00:00 -0000
+
+
