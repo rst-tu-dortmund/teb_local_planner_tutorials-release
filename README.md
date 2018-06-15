@@ -1,3 +1,26 @@
+## teb_local_planner_tutorials (lunar) - 0.2.2-0
+
+The packages in the `teb_local_planner_tutorials` repository were released into the `lunar` distro by running `/usr/bin/bloom-release teb_local_planner_tutorials --track lunar --rosdistro lunar` on `Fri, 15 Jun 2018 16:32:28 -0000`
+
+The `teb_local_planner_tutorials` package was released.
+
+Version of package(s) in repository `teb_local_planner_tutorials`:
+
+- upstream repository: https://github.com/rst-tu-dortmund/teb_local_planner_tutorials.git
+- release repository: https://github.com/rst-tu-dortmund/teb_local_planner_tutorials-release.git
+- rosdistro version: `0.2.1-0`
+- old version: `0.2.1-0`
+- new version: `0.2.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.3`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## teb_local_planner_tutorials (kinetic) - 0.2.2-0
 
 The packages in the `teb_local_planner_tutorials` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release teb_local_planner_tutorials --track kinetic --rosdistro kinetic` on `Fri, 15 Jun 2018 16:29:20 -0000`
