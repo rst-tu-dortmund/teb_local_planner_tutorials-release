@@ -1,0 +1,12 @@
+Source: ros-melodic-teb-local-planner-tutorials
+Section: misc
+Priority: extra
+Maintainer: Christoph Rösmann <christoph.roesmann@tu-dortmund.de>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://wiki.ros.org/teb_local_planner_tutorials
+Standards-Version: 3.9.2
+
+Package: ros-melodic-teb-local-planner-tutorials
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-amcl, ros-melodic-map-server, ros-melodic-move-base, ros-melodic-stage-ros, ros-melodic-teb-local-planner
+Description: The teb_local_planner_tutorials package
