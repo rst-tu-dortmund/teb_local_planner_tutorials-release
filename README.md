@@ -1,3 +1,26 @@
+## teb_local_planner_tutorials (kinetic) - 0.2.4-1
+
+The packages in the `teb_local_planner_tutorials` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release teb_local_planner_tutorials --rosdistro kinetic` on `Wed, 03 Jul 2019 11:44:33 -0000`
+
+The `teb_local_planner_tutorials` package was released.
+
+Version of package(s) in repository `teb_local_planner_tutorials`:
+
+- upstream repository: https://github.com/rst-tu-dortmund/teb_local_planner_tutorials.git
+- release repository: https://github.com/rst-tu-dortmund/teb_local_planner_tutorials-release.git
+- rosdistro version: `0.2.2-0`
+- old version: `0.2.2-0`
+- new version: `0.2.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## teb_local_planner_tutorials (melodic) - 0.2.3-0
 
 The packages in the `teb_local_planner_tutorials` repository were released into the `melodic` distro by running `/usr/bin/bloom-release teb_local_planner_tutorials --track melodic --rosdistro melodic --new-track` on `Wed, 08 Aug 2018 13:41:03 -0000`
